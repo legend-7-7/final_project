@@ -1,0 +1,5 @@
+﻿model,mae,rmse,mape
+baseline_current_week_close,1.985,2.216,2.4535
+linear_regression,4.3162,4.9444,5.3188
+ridge_regression,4.1628,4.8395,5.1277
+random_forest,2.9482,3.435,3.606
