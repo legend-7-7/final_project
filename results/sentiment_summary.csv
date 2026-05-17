@@ -1,0 +1,4 @@
+﻿sentiment_label,count,ratio
+positive,16,0.5714
+negative,8,0.2857
+neutral,4,0.1429
